@@ -3,9 +3,9 @@ entries:
   odeal-api:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-01T20:07:19.374098+03:00"
+    created: "2025-03-01T20:18:19.368604+03:00"
     description: Helm chart for Ödeal API
-    digest: 2086148e2125ee6669bc72197768ecc03673ba81257eb73c9549e0bfe73a187d
+    digest: ee26bb870bed4f0b3555716fb96089d54552325efc9c998ce7cca0bd8bc340a5
     home: https://git.odeal.com/odeal/devops/helm-charts
     icon: https://cdn-icons-png.flaticon.com/512/6151/6151665.png
     keywords:
@@ -24,4 +24,4 @@ entries:
     urls:
     - https://engin.github.io/helm-charts/odeal-api-0.1.1.tgz
     version: 0.1.1
-generated: "2025-03-01T20:07:19.373332+03:00"
+generated: "2025-03-01T20:18:19.367892+03:00"
